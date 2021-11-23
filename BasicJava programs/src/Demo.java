@@ -1,3 +1,4 @@
+//java program to display character of string
 import java.util.*;
 public class Demo {
 
